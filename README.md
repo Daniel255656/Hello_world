@@ -1,2 +1,1 @@
-# Hello_world
-Este trabajo es de prueba
+Este es el trabajo de Steph y de Tatiana
